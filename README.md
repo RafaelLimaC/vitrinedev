@@ -10,7 +10,7 @@ Página Web criada usando apenas HTML e CSS.
 | :fire: Desafio     | #7DaysOfCode
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://ibb.co/kBGghcP#vitrinedev)
+![](https://i.ibb.co/g9rMDgc/Replica-Linkedin.png#vitrinedev)
 
 ## Detalhes do projeto
 
